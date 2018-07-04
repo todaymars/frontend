@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"browserSync"
+			],
+			[
+				"b",
+				"browser-sync"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Todaymars/Desktop/project"
+	],
+	"file_history":
+	[
+		"/C/Users/Todaymars/Desktop/project/css/main.css",
+		"/C/Users/Todaymars/Desktop/project/index.html",
+		"/C/Users/Todaymars/Desktop/project/js/common.js",
+		"/C/Users/Todaymars/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Todaymars/Desktop/voucher.php_",
+		"/C/Users/Todaymars/Desktop/voucher.php",
+		"/C/Users/Todaymars/Desktop/svg_allow.xml",
+		"/C/Users/Todaymars/Desktop/fractal.css",
+		"/C/Users/Todaymars/Desktop/product.php",
+		"/C/Users/Todaymars/Desktop/customer.php",
+		"/C/Users/Todaymars/Desktop/button.html",
+		"/C/Users/Todaymars/Desktop/marketing.php",
+		"/C/Users/Todaymars/Desktop/new_ozonet/product.tpl",
+		"/C/Users/Todaymars/Desktop/new_ozonet/product.php",
+		"/C/Users/Todaymars/Desktop/new_ozonet/backup/product.tpl",
+		"/C/Users/Todaymars/Desktop/new_ozonet/backup/fractal.css",
+		"/C/Users/Todaymars/Desktop/style0.css",
+		"/C/Users/Todaymars/Desktop/301_02_12.csv",
+		"/C/Users/Todaymars/Desktop/my-project/live_search.css",
+		"/C/Users/Todaymars/Desktop/configurator.css",
+		"/C/Users/Todaymars/Desktop/product.tpl",
+		"/C/Users/Todaymars/Desktop/dev/product.tpl",
+		"/C/Users/Todaymars/Desktop/dev/promotion_product.tpl",
+		"/C/Users/Todaymars/Desktop/dev/promotion.css",
+		"/C/Users/Todaymars/Desktop/dev/fractal.css",
+		"/C/Users/Todaymars/Desktop/z/footer.tpl",
+		"/C/Users/Todaymars/Desktop/z/stylesheet.css",
+		"/C/Users/Todaymars/Desktop/dev/config.php",
+		"/C/Users/Todaymars/Desktop/z/header.tpl",
+		"/C/Users/Todaymars/Desktop/z/russian/module/barbaratheme.php",
+		"/C/Users/Todaymars/Desktop/z/configurator.css",
+		"/C/Users/Todaymars/Desktop/category.tpl",
+		"/C/Users/Todaymars/Desktop/my-project/stylesheet.css",
+		"/C/Users/Todaymars/Desktop/stylesheet.css",
+		"/C/Users/Todaymars/Desktop/z/header.php",
+		"/C/Users/Todaymars/Desktop/simplecheckout_cart.tpl",
+		"/C/Users/Todaymars/Desktop/simple.css",
+		"/C/Users/Todaymars/Desktop/simplecheckout.tpl",
+		"/C/Users/Todaymars/Desktop/simplecheckout.php",
+		"/C/Users/Todaymars/Desktop/Piroll/package.json",
+		"/C/Users/Todaymars/Desktop/my-project/package.json",
+		"/C/Users/Todaymars/Desktop/my-project/gulpfile.js",
+		"/C/theme/russian/common/header.php",
+		"/C/theme/common.js",
+		"/C/theme/03-10/configurator.css",
+		"/C/theme/03-10/unishop/configurator.tpl",
+		"/C/Users/Todaymars/Desktop/my-project/.bowerrc",
+		"/C/Users/Todaymars/Desktop/my-project/app/js/common.js",
+		"/C/Users/Todaymars/Desktop/my-project/app/sass/__part.sass",
+		"/C/Users/Todaymars/Desktop/my-project/app/sass/main.sass",
+		"/C/Users/Todaymars/Desktop/my-project/app/css/main.css",
+		"/C/Users/Todaymars/Desktop/my-project/app/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/theme/03-10/1/catalog/controller/module/configurator.php",
+		"/C/theme/03-10/soforp_unistor/template/product/jquery.json.js",
+		"/C/theme/03-10/soforp_unistor/template/product/pk.ocmod.xml",
+		"/C/theme/03-10/soforp_unistor/template/product/app.php",
+		"/C/theme/03-10/config.php",
+		"/C/Users/Todaymars/Downloads/develop (1).sql",
+		"/C/Users/Todaymars/Downloads/develop (2).sql",
+		"/C/Users/Todaymars/Downloads/develop (3).sql",
+		"/C/theme/03-10/soforp_unistor/template/product/column_left.tpl",
+		"/C/theme/03-10/soforp_unistor/template/product/content_top.tpl",
+		"/C/theme/03-10/soforp_unistor/template/product/app-orig.tpl",
+		"/C/theme/03-10/unishop/template/constructor/app.tpl",
+		"/C/theme/category.tpl",
+		"/C/theme/russian/common/search.php",
+		"/C/theme/russian/product/search.php",
+		"/C/theme/88/barbaraproduct.tpl",
+		"/C/theme/30-10/bestseller.tpl",
+		"/C/theme/30-10/123/barbaraproduct.tpl",
+		"/C/theme/30-10/123/stylesheet.css",
+		"/C/theme/30-10/123/bestseller.tpl",
+		"/C/theme/backup/barbaraproduct.tpl",
+		"/C/theme/30-10/style0.css",
+		"/C/theme/30-10/header.tpl",
+		"/C/Users/Todaymars/Desktop/my-project/app/saas/main.saas",
+		"/C/Users/TODAYM~1/AppData/Local/Temp/Rar$DRa0.218/install.xml",
+		"/C/Users/Todaymars/Desktop/zheleza-net/footer.tpl",
+		"/C/Users/Todaymars/Desktop/zheleza-net/header.tpl",
+		"/C/Users/Todaymars/Desktop/zheleza-net/style0.css",
+		"/C/Users/Todaymars/Desktop/zheleza-net/filterpro.css",
+		"/C/theme/03-10/configurator.tpl",
+		"/C/Users/Todaymars/Desktop/ozonet_simple_backup/stylesheet.css",
+		"/C/Users/Todaymars/Desktop/ozonet_simple_backup/flipclock.css",
+		"/C/Users/Todaymars/Downloads/attributes.ocmod.xml",
+		"/C/theme/russian/russian.php",
+		"/C/theme/search.tpl",
+		"/C/theme/header.tpl",
+		"/C/theme/russian.php",
+		"/C/theme/30-10/live_search.css",
+		"/C/Users/TODAYM~1/AppData/Local/Temp/Rar$DRa0.728/upload/catalog/controller/product/live_search.php",
+		"/C/theme/30-10/common.js",
+		"/C/theme/30-10/search.tpl",
+		"/C/theme/30-10/search_2.tpl",
+		"/C/theme/30-10/barbaraproduct.tpl",
+		"/C/theme/30-10/stylesheet.css",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/manufacturer_list.tpl",
+		"/C/Users/Todaymars/Desktop/1/robots.txt",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/cart.tpl",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/contact.tpl",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/sitemap.tpl",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/order.tpl",
+		"/C/Users/Todaymars/Desktop/email.html",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/order.php",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/search.tpl",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/special.tpl",
+		"/C/theme/simplecheckout.tpl",
+		"/C/theme/promotion_category.tpl",
+		"/C/theme/stylesheet.css",
+		"/C/theme/configurator.css",
+		"/C/Users/Todaymars/Desktop/static_meta.php",
+		"/C/Users/Todaymars/Desktop/static_meta.cache.php",
+		"/C/Users/Todaymars/Desktop/module.php",
+		"/C/Users/Todaymars/Desktop/replace_tag.php",
+		"/C/Users/Todaymars/Desktop/api_generate_content.php",
+		"/C/Users/Todaymars/Desktop/add_to_ititle.php",
+		"/C/Users/Todaymars/Desktop/add_static_pages.php",
+		"/C/Users/Todaymars/Desktop/index.php",
+		"/C/Users/Todaymars/Desktop/genereate_meta.php",
+		"/C/theme/home.tpl",
+		"/C/theme/topcontent.tpl",
+		"/C/theme/barbaracatalog.tpl",
+		"/C/theme/barbara_info.tpl",
+		"/C/Users/Todaymars/Desktop/kidswear/ftp/cart.php",
+		"/C/Users/Todaymars/Downloads/localhost.sql",
+		"/C/Users/Todaymars/Desktop/hosts",
+		"/C/Users/TODAYM~1/AppData/Local/Temp/Rar$DRa0.596/admin/config.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"!",
+			"getCoupons",
+			"title",
+			"tit",
+			"new",
+			"-02",
+			"2018",
+			"</lastmod>",
+			"<lastmod>",
+			"<lastmod>2018-02-23</lastmod>",
+			"<lastmod>2018-02-26</lastmod>",
+			"<lastmod>2018-02-28</lastmod>",
+			"<lastmod>2018-02-27</lastmod>",
+			"<lastmod>2018-03-05</lastmod>",
+			"<lastmod>2018-03-06</lastmod>",
+			"<lastmod>2018-03-07</lastmod>",
+			"<lastmod>2018-03-13</lastmod>",
+			"<lastmod>2018-03-14</lastmod>",
+			"<lastmod>2018-03-15</lastmod>",
+			"<lastmod>2018-03-16</lastmod>",
+			"<priority>1.0</priority>",
+			"</loc>",
+			"<loc>",
+			"<url>",
+			"<lastmod>2018-03-19</lastmod>",
+			"<changefreq>daily</changefreq>",
+			"<priority>0.2</priority>",
+			"</url>",
+			"</urlset>",
+			"/ua/",
+			"$price_level",
+			"Бесп",
+			"ul.atr",
+			"title-product-info",
+			".linetoppr",
+			".priceproduct-new",
+			"#undersell-order,\n",
+			"#undersell-order,\n .popup-modal",
+			".line-product",
+			"\n        max-width: 430.5px",
+			".btn-cart-red",
+			"бесп",
+			"list-u",
+			"бесп",
+			"undersell",
+			"list-unstyled",
+			"-->",
+			"list-un",
+			"wish",
+			"-->",
+			"price\"",
+			"-->",
+			"cart",
+			"line-product inner-wrap",
+			"#undersell-order,",
+			".product-info",
+			"attribute_groups",
+			"<hr>",
+			"cart-red",
+			".btn-cart-red",
+			"loading",
+			"load",
+			".product-info",
+			"line-p",
+			"price",
+			"line",
+			"raiting",
+			".fix_true",
+			"col-sm-4",
+			"col-sm-12",
+			"fix",
+			"social",
+			"tabs",
+			"neo",
+			"end",
+			"/ru",
+			"column_model",
+			".simple-content input[type=text], .simple-content input[type=password], .simple-content input[type=email], .simple-content input[type=tel], .simple-content input[type=phone], .simple-content input[type=date], .simple-content input[type=time], .simple-content select, .simple-content textarea",
+			"cleanCss",
+			"clea",
+			"#000",
+			"clock",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"/p>\n</li>",
+			"<li>\n<p>",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"&nbsp;",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			" &nbsp;",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"<span>",
+			"</span>",
+			" dir=\"ltr\"",
+			"</span>",
+			"<span>",
+			" dir=\"ltr\"",
+			"<br />",
+			"</span>",
+			"<br class=\"kix-line-break\" />",
+			"<span>",
+			" dir=\"ltr\"",
+			"</span>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"</li>",
+			"<li>",
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			"<br>",
+			"",
+			"<br />",
+			"",
+			"/home/kidswe00/kidswear.od.ua/www/",
+			"RobotoLight",
+			"",
+			"грн",
+			"<br>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
